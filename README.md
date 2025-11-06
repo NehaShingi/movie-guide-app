@@ -5,7 +5,7 @@ A Movie Guide web app built with HTML, CSS, JavaScript and the OMDb API. It allo
 - **Search Movies** - Enter any movie title to view details
 - **Movie Details** - Displays title, year, genre, plot, ratings and cast
 - **Responsive UI** - Clean and responsive UI
-- **Error Handling** - 
+- **Error Handling** 
       - Empty search-> "Please enter a movie name"
       - Invalid movie-> "Movie Not Found!"
 
