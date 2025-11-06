@@ -16,6 +16,8 @@ A Movie Guide web app built with HTML, CSS, JavaScript and the OMDb API. It allo
 ## Screenshots
 ![Screenshot1](./screenshot1.png)
 
+
 ![Screenshot2](./screenshot2.png)
+
 
 ![Screenshot3](./screenshot3.png)
